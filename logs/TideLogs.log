@@ -1,0 +1,2141 @@
+[INFO ] 2022-07-28 16:27:09.898 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 16:27:09.907 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 16:27:09.908 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 16:27:11.344 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 16:27:11.434 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 16:27:14.182 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 16:27:14.183 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 16:27:14.184 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 16:27:14.184 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 16:28:52.615 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 16:28:52.624 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 16:28:52.624 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 16:28:53.945 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 16:28:54.042 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 16:29:01.717 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 16:29:01.717 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 16:29:01.718 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 16:29:01.718 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 16:29:31.644 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 16:29:31.655 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 16:29:31.655 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 16:29:32.982 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 16:29:33.064 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 16:29:40.386 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 16:29:40.387 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 16:29:40.387 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 16:29:40.387 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:18:29.887 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:18:29.891 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:18:30.144 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:18:30.144 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:18:35.375 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:18:35.375 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:18:35.376 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:18:35.376 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:18:35.376 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:18:35.587 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:18:35.588 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:19:17.305 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:19:17.314 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:19:17.314 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:19:21.101 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:19:21.101 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:19:21.101 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:19:23.966 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 18:19:23.966 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 18:19:41.978 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:19:41.978 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:19:42.406 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:19:42.406 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:19:47.455 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:19:47.455 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:19:47.456 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:19:47.568 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:19:47.578 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:19:47.579 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:19:51.476 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:19:51.477 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:19:51.478 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:19:51.762 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:19:51.763 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:19:51.764 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:19:52.858 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 18:19:53.053 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 18:19:54.284 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 18:19:54.284 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 18:19:54.798 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 18:19:59.218 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:19:59.218 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:19:59.722 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:19:59.722 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:20:01.664 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 18:20:01.665 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 18:20:01.666 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:20:01.666 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:20:02.251 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:20:02.251 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:20:05.012 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:20:05.012 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:20:05.013 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:20:08.701 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:20:08.701 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:20:08.702 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:20:09.983 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 18:20:10.082 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 18:20:17.597 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 18:20:17.598 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 18:20:17.598 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:20:17.598 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:20:17.949 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:20:17.949 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:24:43.474 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:24:43.482 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:24:43.482 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:24:48.076 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:24:48.077 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:24:48.077 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:24:49.983 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 18:24:49.984 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 18:24:50.804 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 18:24:52.951 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:24:52.952 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:24:53.438 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:24:53.438 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:24:56.413 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:24:56.413 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:24:56.413 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:25:01.463 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:25:01.464 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:25:01.464 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:25:03.003 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 18:25:03.094 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 18:25:10.907 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 18:25:10.907 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 18:25:10.907 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:25:10.907 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:25:11.272 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:25:11.272 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:27:10.154 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:27:10.165 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:27:10.165 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:27:14.708 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:27:14.708 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:27:14.709 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:27:17.661 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 18:27:17.661 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 18:27:17.720 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 18:27:21.124 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 18:27:21.124 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:27:21.124 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:27:21.657 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:27:21.657 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:27:26.356 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:27:26.356 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:27:26.356 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:27:30.257 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:27:30.257 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:27:30.257 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:27:32.195 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 18:27:32.283 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 18:27:39.796 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 18:27:39.797 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 18:27:39.797 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:27:39.797 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:27:40.160 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:27:40.161 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:31:34.109 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:31:34.118 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:31:34.118 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:31:36.849 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:31:36.849 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:31:36.849 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:31:38.971 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 18:31:38.972 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 18:31:59.582 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:31:59.590 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:31:59.591 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:32:04.071 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:32:04.071 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:32:04.071 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:32:06.833 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 18:32:06.834 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 18:32:06.886 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 18:32:10.769 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 18:32:10.769 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:32:10.769 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:32:11.223 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:32:11.223 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:32:15.838 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:32:15.838 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:32:15.838 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:32:19.370 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:32:19.370 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:32:19.371 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:32:21.481 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 18:32:21.573 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 18:32:29.333 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 18:32:29.334 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 18:32:29.334 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:32:29.334 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:32:29.692 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:32:29.693 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:34:37.762 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:34:37.772 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:34:37.772 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:34:40.526 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:34:40.526 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:34:40.527 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:34:43.705 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 18:34:43.705 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 18:34:43.751 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 18:34:50.723 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 18:34:50.724 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:34:50.724 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:34:51.203 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:34:51.204 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:34:55.566 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:34:55.566 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:34:55.566 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:34:59.877 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 18:34:59.877 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 18:34:59.877 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 18:35:01.399 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 18:35:01.495 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 18:35:08.946 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 18:35:08.946 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 18:35:08.947 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:35:08.947 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 18:35:09.265 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 18:35:09.266 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:14:18.669 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:14:18.676 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:14:18.677 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:14:22.720 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:14:22.720 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:14:22.721 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:14:27.126 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:14:27.127 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:14:27.127 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 20:14:27.301 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 20:14:28.722 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 20:14:28.858 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 20:14:28.858 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:14:28.858 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:14:29.253 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:14:29.254 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:14:29.303 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:14:29.304 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:14:33.913 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:14:33.913 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:14:33.913 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:14:38.198 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:14:38.199 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:14:38.199 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:14:43.005 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:14:43.006 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:14:43.006 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:14:45.938 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 20:14:45.938 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 20:14:58.614 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 20:15:09.854 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:15:09.863 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:15:09.863 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:15:12.674 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:15:12.675 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:15:12.675 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:15:17.372 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:15:17.372 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:15:17.373 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 20:15:17.522 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 20:15:18.901 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 20:15:19.034 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 20:15:19.035 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:15:19.035 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:15:19.445 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:15:19.445 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:15:19.492 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:15:19.492 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:15:24.196 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:15:24.197 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:15:24.197 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:15:28.413 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:15:28.413 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:15:28.414 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:15:31.590 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:15:31.591 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:15:31.591 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:15:33.675 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 20:15:33.675 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 20:15:34.291 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 20:15:43.471 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 20:15:43.472 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:15:43.472 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:15:43.770 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:15:43.771 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:15:43.820 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:15:43.820 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:15:48.267 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:15:48.267 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:15:48.267 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:15:53.822 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:15:53.822 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:15:53.822 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:15:58.110 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:15:58.110 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:15:58.110 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:15:59.217 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 20:15:59.312 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 20:16:07.368 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 20:16:07.368 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 20:16:07.368 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:16:07.368 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:16:07.725 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:16:07.725 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:16:07.762 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:16:07.762 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:40:54.051 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:40:54.060 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:40:54.060 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:40:58.337 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:40:58.338 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:40:58.338 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:41:03.161 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:41:03.161 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:41:03.162 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 20:41:03.316 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 20:41:05.041 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 20:41:05.196 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 20:41:05.197 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:41:05.197 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:41:05.693 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:41:05.693 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:41:05.753 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:41:05.753 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:41:10.712 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:41:10.712 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:41:10.713 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:41:15.510 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:41:15.511 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:41:15.511 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:41:20.336 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:41:20.336 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:41:20.336 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:41:23.089 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 20:41:23.089 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 20:41:23.316 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 20:41:30.614 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 20:41:30.615 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:41:30.615 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:41:30.914 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:41:30.914 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:41:30.970 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:41:30.970 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:41:36.185 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:41:36.185 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:41:36.185 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:41:41.418 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:41:41.418 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:41:41.418 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:41:47.196 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:41:47.196 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:41:47.196 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:41:48.875 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 20:41:48.969 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 20:41:58.039 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 20:41:58.040 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 20:41:58.040 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:41:58.040 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:41:58.438 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:41:58.438 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:41:58.485 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:41:58.485 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:44:52.510 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:44:52.518 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:44:52.518 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 20:44:52.693 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 20:44:54.347 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 20:44:54.500 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 20:44:54.501 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:44:54.501 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:44:57.142 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:44:57.143 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:44:57.143 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:44:57.147 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:44:57.147 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:45:01.255 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:45:01.255 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:45:01.255 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:45:02.701 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:45:02.701 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:49:39.643 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:49:39.651 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:49:39.651 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 20:49:39.808 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 20:49:41.187 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 20:49:41.336 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 20:49:41.337 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:49:41.337 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:49:46.522 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:49:46.523 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:49:46.523 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:49:48.587 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:49:48.587 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:49:53.213 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:49:53.213 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:49:53.213 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:50:02.199 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:50:02.199 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:51:34.253 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:51:34.262 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:51:34.262 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 20:51:34.418 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 20:51:35.556 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 20:51:35.701 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 20:51:35.701 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:51:35.701 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:51:40.566 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:51:40.566 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:51:40.566 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:51:42.642 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 20:51:42.643 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 20:51:51.922 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 20:51:57.945 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 20:51:57.945 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:51:57.945 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 20:52:02.540 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 20:52:02.540 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 20:52:02.540 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 20:52:03.974 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 20:52:04.060 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 20:52:11.023 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 20:52:11.024 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 20:52:11.024 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 20:52:11.024 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:09:32.878 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:09:32.880 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:38:16.088 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:38:16.098 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:38:16.098 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 21:38:16.242 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 21:38:18.006 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 21:38:18.173 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 21:38:18.173 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:38:18.173 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:38:22.867 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:38:22.867 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:38:22.867 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:38:23.004 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 21:38:23.415 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 21:38:23.622 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 21:38:23.623 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:38:23.623 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:38:28.703 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:38:28.703 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:38:28.703 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:38:30.474 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 21:38:30.474 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 21:38:31.514 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 21:38:38.216 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 21:38:38.216 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:38:38.216 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:38:41.352 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:38:41.352 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:38:41.352 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:38:42.873 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 21:38:42.953 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 21:38:50.110 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 21:38:50.110 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 21:38:50.110 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:38:50.110 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:42:54.641 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:42:54.652 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:42:54.652 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:42:54.656 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:42:54.657 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:53:21.023 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:53:21.031 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:53:21.031 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 21:53:21.194 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 21:53:22.471 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 21:53:22.653 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 21:53:22.653 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:53:22.654 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:53:25.932 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:53:25.932 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:53:25.933 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:53:26.062 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 21:53:26.632 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 21:53:26.804 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 21:53:26.804 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:53:26.804 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:53:29.975 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:53:29.975 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:53:29.975 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:53:30.126 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[WARN ] 2022-07-28 21:53:30.505 [main] LogsUtil - Clicked on Washing Different Fabrics and Colors
+[ERROR] 2022-07-28 21:53:30.671 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-28 21:53:30.672 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:53:30.672 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:53:35.224 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:53:35.224 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:53:35.224 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:53:38.107 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 21:53:38.108 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 21:53:38.157 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 21:53:45.064 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 21:53:45.065 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:53:45.065 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:53:49.939 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:53:49.939 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:53:49.939 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:53:51.204 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 21:53:51.287 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 21:53:59.438 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 21:53:59.439 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 21:53:59.439 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:53:59.439 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:56:42.673 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:56:42.682 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:56:42.682 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 21:56:42.833 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 21:56:44.289 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 21:56:44.445 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 21:56:44.445 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:56:44.445 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:56:49.868 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:56:49.868 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:56:49.869 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:56:50.002 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 21:56:50.401 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 21:56:50.824 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 21:56:50.825 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:56:50.825 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:56:55.573 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:56:55.573 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:56:55.573 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:56:55.706 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[WARN ] 2022-07-28 21:56:56.076 [main] LogsUtil - Clicked on Washing Different Fabrics and Colors
+[ERROR] 2022-07-28 21:56:56.239 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-28 21:56:56.239 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:56:56.240 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:57:00.948 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:57:00.948 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:57:00.948 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:57:03.687 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 21:57:03.687 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 21:57:03.732 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 21:57:10.457 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 21:57:10.457 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:57:10.457 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 21:57:15.197 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 21:57:15.197 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 21:57:15.197 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 21:57:16.851 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 21:57:16.934 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 21:57:23.468 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 21:57:23.469 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 21:57:23.469 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 21:57:23.469 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:04:15.292 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:04:15.300 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:04:15.300 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:04:15.304 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:04:15.304 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:05:18.932 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:05:18.941 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:05:18.941 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:05:18.945 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:05:18.945 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:29:43.640 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:29:43.649 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:29:43.650 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:29:43.808 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:29:45.122 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:29:45.272 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:29:45.272 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:29:45.272 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:29:50.139 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:29:50.139 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:29:50.139 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:29:50.286 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 22:29:50.693 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 22:29:50.926 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:29:50.926 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:29:50.927 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:29:55.423 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:29:55.424 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:29:55.424 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:29:55.584 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 22:30:18.184 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:30:18.192 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:30:18.193 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:30:18.347 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:30:19.747 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:30:19.896 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:30:19.896 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:30:19.896 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:30:24.560 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:30:24.561 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:30:24.561 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:30:24.700 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 22:30:25.108 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 22:30:25.545 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:30:25.545 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:30:25.545 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:30:29.956 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:30:29.956 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:30:29.957 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:30:30.105 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 22:30:50.197 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:30:50.197 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:30:55.347 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:30:55.347 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:30:55.347 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:30:55.530 [main] LogsUtil - Clicked on Whats New
+[INFO ] 2022-07-28 22:30:55.531 [main] LogsUtil - List of Articles appear
+[INFO ] 2022-07-28 22:31:14.909 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:31:14.918 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:31:14.918 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:31:15.067 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:31:16.513 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:31:16.661 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:31:16.661 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:31:16.661 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:31:21.603 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:31:21.603 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:31:21.603 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:31:21.738 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 22:31:22.186 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 22:31:22.394 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:31:22.394 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:31:22.394 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:31:25.436 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:31:25.436 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:31:25.437 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:31:25.587 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 22:32:03.988 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:32:03.997 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:32:03.998 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:32:04.156 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:32:05.669 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:32:05.817 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:32:05.817 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:32:05.817 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:32:09.894 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:32:09.895 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:32:09.895 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:32:10.042 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 22:32:10.443 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 22:32:10.679 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:32:10.680 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:32:10.680 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:32:15.052 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:32:15.053 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:32:15.053 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:32:15.205 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 22:32:38.908 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:32:38.916 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:32:38.916 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:32:39.064 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:32:40.555 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:32:40.707 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:32:40.707 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:32:40.707 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:32:44.160 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:32:44.160 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:32:44.160 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:32:44.325 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 22:32:44.751 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 22:32:44.992 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:32:44.992 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:32:44.992 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:32:49.279 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:32:49.280 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:32:49.280 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:32:49.416 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 22:33:09.526 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:33:09.526 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:33:14.159 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:33:14.159 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:33:14.159 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:33:14.337 [main] LogsUtil - Clicked on Whats New
+[INFO ] 2022-07-28 22:33:14.337 [main] LogsUtil - List of Articles appear
+[INFO ] 2022-07-28 22:33:34.544 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:33:34.545 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:33:39.219 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:33:39.220 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:33:39.220 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:33:40.953 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 22:33:40.954 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 22:34:02.028 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:34:02.028 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:34:06.784 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:34:06.785 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:34:06.785 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:34:08.275 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 22:34:08.353 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 22:34:13.896 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 22:34:13.897 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 22:34:13.898 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:34:13.898 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:43:26.265 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:43:26.274 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:43:26.274 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:43:26.424 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:43:28.393 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:43:28.550 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:43:28.550 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:43:28.550 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:43:33.338 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:43:33.339 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:43:33.339 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:43:33.481 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 22:43:33.894 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 22:43:34.108 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:43:34.108 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:43:34.108 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:43:38.474 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:43:38.475 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:43:38.475 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:43:38.632 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 22:43:58.738 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:43:58.738 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:44:03.575 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:44:03.575 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:44:03.575 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:44:03.848 [main] LogsUtil - Clicked on Whats New
+[INFO ] 2022-07-28 22:44:03.849 [main] LogsUtil - List of Articles appear
+[INFO ] 2022-07-28 22:44:43.613 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:44:43.621 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:44:43.621 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:44:43.777 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:44:45.453 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:44:45.598 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:44:45.599 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:44:45.599 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:44:50.070 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:44:50.071 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:44:50.071 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:44:50.217 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 22:44:50.608 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 22:44:50.827 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:44:50.827 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:44:50.827 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:44:55.340 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:44:55.340 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:44:55.340 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:44:55.481 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 22:45:15.588 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:45:15.588 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:45:20.721 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:45:20.721 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:45:20.722 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:45:20.887 [main] LogsUtil - Clicked on Whats New
+[INFO ] 2022-07-28 22:45:20.887 [main] LogsUtil - List of Articles appear
+[INFO ] 2022-07-28 22:45:41.123 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:45:41.123 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:45:46.548 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:45:46.549 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:45:46.549 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:45:49.335 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 22:45:49.335 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 22:45:49.478 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 22:45:56.393 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 22:45:56.394 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:45:56.394 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:46:01.465 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:46:01.466 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:46:01.466 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:46:03.115 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 22:46:03.206 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 22:46:12.779 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 22:46:12.779 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 22:46:12.779 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:46:12.779 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:55:53.043 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:55:53.052 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:55:53.052 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:55:53.210 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:55:54.729 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:55:54.895 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:55:54.895 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:55:54.896 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:55:58.307 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:55:58.307 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:55:58.307 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:55:58.459 [main] LogsUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-28 22:57:40.388 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:57:40.397 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:57:40.397 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:57:40.553 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:57:41.889 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:57:42.094 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:57:42.094 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:57:42.094 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:57:47.029 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:57:47.030 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:57:47.030 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:57:47.166 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 22:57:48.140 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 22:57:48.625 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:57:48.625 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:57:48.625 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:57:53.989 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:57:53.990 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:57:53.990 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:57:54.134 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 22:58:14.231 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:58:14.231 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:58:21.948 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:58:21.948 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:58:21.948 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:58:22.149 [main] LogsUtil - Clicked on Whats New
+[INFO ] 2022-07-28 22:58:22.149 [main] LogsUtil - List of Articles appear
+[INFO ] 2022-07-28 22:58:52.580 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:58:52.592 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:58:52.592 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 22:58:52.767 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 22:58:54.852 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 22:58:55.020 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:58:55.021 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:58:55.021 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:59:00.489 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:59:00.489 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:59:00.489 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:59:00.629 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 22:59:01.400 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 22:59:01.685 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 22:59:01.686 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:59:01.686 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:59:06.277 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:59:06.277 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:59:06.277 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:59:06.457 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 22:59:26.529 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:59:26.529 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:59:31.697 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:59:31.697 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:59:31.697 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:59:32.079 [main] LogsUtil - Clicked on Whats New
+[INFO ] 2022-07-28 22:59:32.079 [main] LogsUtil - List of Articles appear
+[INFO ] 2022-07-28 22:59:52.158 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 22:59:52.158 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 22:59:56.271 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 22:59:56.272 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 22:59:56.272 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 22:59:58.784 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 22:59:58.784 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 23:00:19.002 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:00:19.002 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:00:23.249 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:00:23.249 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:00:23.249 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:00:24.695 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 23:00:24.786 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 23:00:30.352 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 23:00:30.353 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 23:00:30.353 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:00:30.353 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:03:53.888 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:03:53.897 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:03:53.897 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 23:03:54.050 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 23:03:55.449 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 23:03:55.601 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 23:03:55.601 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:03:55.601 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:04:00.062 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:04:00.062 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:04:00.062 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:04:00.207 [main] LogsUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-28 23:04:20.776 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:04:20.776 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:04:28.309 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:04:28.310 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:04:28.310 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:04:28.448 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 23:04:48.556 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:04:48.556 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:04:52.433 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:04:52.434 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:04:52.434 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:04:53.022 [main] LogsUtil - Clicked on Whats New
+[INFO ] 2022-07-28 23:04:53.023 [main] LogsUtil - List of Articles appear
+[INFO ] 2022-07-28 23:05:13.122 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:05:13.122 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:05:19.913 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:05:19.914 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:05:19.914 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:05:26.765 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 23:05:26.766 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 23:05:26.820 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 23:05:34.165 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 23:05:34.165 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:05:34.165 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:05:37.331 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:05:37.331 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:05:37.331 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:05:38.818 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 23:05:38.911 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-28 23:05:44.340 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-28 23:05:44.340 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-28 23:05:44.341 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:05:44.341 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:06:15.680 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:06:15.689 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:06:15.689 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 23:06:15.841 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 23:06:17.237 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 23:06:17.392 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 23:06:17.392 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:06:17.392 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:06:22.728 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:06:22.728 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:06:22.728 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:06:22.888 [main] LogsUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-28 23:06:33.247 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:06:33.247 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:06:38.040 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:06:38.040 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:06:38.041 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:06:38.192 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 23:06:58.318 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:06:58.318 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:07:03.222 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:07:03.222 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:07:03.222 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:07:03.405 [main] LogsUtil - Clicked on Whats New
+[INFO ] 2022-07-28 23:07:03.406 [main] LogsUtil - List of Articles appear
+[INFO ] 2022-07-28 23:07:23.617 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:07:23.617 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:16:17.923 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:16:17.933 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:16:17.933 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 23:16:18.073 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 23:16:19.449 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 23:16:19.602 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 23:16:19.602 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:16:19.602 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:16:23.113 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:16:23.114 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:16:23.114 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:16:23.265 [main] LogsUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-28 23:16:53.631 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:16:53.631 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:19:43.111 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:19:43.121 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:19:43.121 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 23:19:43.275 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 23:19:45.189 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 23:19:45.335 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 23:19:45.335 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:19:45.335 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:19:49.424 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:19:49.424 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:19:49.424 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:19:49.563 [main] LogsUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-28 23:19:59.920 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:19:59.920 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:20:03.547 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:20:03.547 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:20:03.547 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:20:03.694 [main] LogsUtil - Hovering on Menu How to Wash Clothes
+[INFO ] 2022-07-28 23:24:01.767 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:24:01.775 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:24:01.775 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 23:24:01.919 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 23:24:03.846 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 23:24:04.010 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 23:24:04.010 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:24:04.011 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:24:07.293 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:24:07.293 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:24:07.294 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:24:07.452 [main] LogsUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-28 23:24:28.600 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:24:28.600 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:37:31.560 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:37:31.564 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:59:19.709 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:59:19.719 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:59:19.720 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-28 23:59:19.878 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-28 23:59:21.343 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-28 23:59:21.499 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 23:59:21.499 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:59:21.499 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:59:24.801 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:59:24.801 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:59:24.801 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:59:24.957 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-28 23:59:25.446 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-28 23:59:25.823 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 23:59:25.823 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:59:25.823 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:59:30.304 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:59:30.304 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:59:30.304 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:59:30.489 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-28 23:59:30.679 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-28 23:59:35.378 [main] LogsUtil - Verified text
+[INFO ] 2022-07-28 23:59:35.378 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:59:35.378 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:59:38.497 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:59:38.497 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:59:38.497 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:59:41.365 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-28 23:59:41.366 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-28 23:59:41.416 [main] LogsUtil - Product selected
+[INFO ] 2022-07-28 23:59:48.364 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-28 23:59:48.364 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-28 23:59:48.364 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-28 23:59:53.430 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-28 23:59:53.430 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-28 23:59:53.430 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-28 23:59:55.484 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-28 23:59:55.561 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 00:00:01.031 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 00:00:01.031 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 00:00:01.031 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:00:01.031 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:17:27.388 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:17:27.398 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:17:27.398 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:17:27.402 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:17:27.402 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:32:23.027 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:32:23.036 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:32:23.036 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 00:32:23.203 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 00:32:24.704 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 00:32:24.869 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 00:32:24.869 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:32:24.870 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:32:29.091 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:32:29.091 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:32:29.091 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:32:29.236 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 00:32:29.639 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 00:32:30.074 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 00:32:30.074 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:32:30.074 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:32:33.904 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:32:33.905 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:32:33.905 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:32:34.074 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 00:32:34.261 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 00:32:38.602 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 00:32:38.603 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:32:38.603 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:32:43.520 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:32:43.521 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:32:43.521 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:32:46.156 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 00:32:46.156 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 00:32:50.771 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 00:32:57.063 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 00:32:57.063 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:32:57.063 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:33:01.156 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:33:01.156 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:33:01.156 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:33:02.515 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 00:33:02.608 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 00:33:08.379 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 00:33:08.379 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 00:33:08.380 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:33:08.380 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:33:11.358 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:33:11.358 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:33:11.358 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:33:11.758 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 00:33:11.907 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 00:33:12.305 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 00:33:12.306 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:33:12.306 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:37:05.606 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:37:05.614 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:37:05.615 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 00:37:05.782 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 00:37:07.189 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 00:37:07.369 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 00:37:07.369 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:37:07.369 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:37:11.963 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:37:11.963 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:37:11.963 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:37:12.100 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 00:37:12.519 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 00:37:12.954 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 00:37:12.955 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:37:12.955 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:37:17.490 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:37:17.490 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:37:17.490 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:37:17.729 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 00:37:17.831 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 00:37:22.202 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 00:37:22.202 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:37:22.203 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:37:26.677 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:37:26.678 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:37:26.678 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:37:28.558 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 00:37:28.558 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 00:37:29.418 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 00:37:36.027 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 00:37:36.028 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:37:36.028 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:37:40.970 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:37:40.971 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:37:40.971 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:37:42.212 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 00:37:42.302 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 00:37:47.783 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 00:37:47.784 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 00:37:47.784 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:37:47.784 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:37:52.761 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:37:52.761 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:37:52.761 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:37:53.113 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 00:37:53.255 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 00:37:53.567 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 00:37:54.226 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:37:54.226 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 00:48:01.835 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 00:48:01.843 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 00:48:01.844 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 00:48:01.848 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 00:48:01.848 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:04:34.111 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:04:34.120 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:04:34.120 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:04:34.275 [main] LogsUtil - clicked on facebook icon
+[ERROR] 2022-07-29 01:04:34.425 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-29 01:04:34.425 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:04:34.425 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:04:37.712 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:04:37.712 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:04:37.712 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 01:04:37.866 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 01:04:39.286 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 01:04:39.419 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:04:39.420 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:04:39.420 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:04:43.577 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:04:43.578 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:04:43.578 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:04:43.729 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 01:04:44.135 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 01:04:44.538 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:04:44.538 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:04:44.538 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:04:49.243 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:04:49.244 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:04:49.244 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:04:49.512 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 01:04:49.633 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 01:04:54.277 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:04:54.278 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:04:54.278 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:04:57.446 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:04:57.446 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:04:57.446 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:05:00.157 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 01:05:00.158 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 01:05:06.058 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 01:05:12.185 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 01:05:12.186 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:05:12.186 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:05:15.276 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:05:15.277 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:05:15.277 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:05:16.715 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 01:05:16.802 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 01:05:22.328 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 01:05:22.328 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 01:05:22.329 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:05:22.329 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:05:27.018 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:05:27.018 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:05:27.018 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:05:27.358 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 01:05:27.522 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 01:05:27.980 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:05:28.563 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:05:28.563 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:07:26.368 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:07:26.377 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:07:26.377 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:07:26.528 [main] LogsUtil - clicked on facebook icon
+[ERROR] 2022-07-29 01:07:26.846 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-29 01:07:26.846 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:07:26.846 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:07:30.018 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:07:30.018 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:07:30.018 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 01:07:30.169 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 01:07:31.576 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 01:07:31.709 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:07:31.709 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:07:31.709 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:07:35.976 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:07:35.977 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:07:35.977 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:07:36.118 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 01:07:36.558 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 01:07:36.957 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:07:36.957 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:07:36.958 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:08:19.959 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:08:19.968 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:08:19.968 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:08:20.393 [main] LogsUtil - clicked on facebook icon
+[ERROR] 2022-07-29 01:08:20.404 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-29 01:08:20.404 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:08:20.404 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:08:23.076 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:08:23.077 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:09:51.653 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:09:51.661 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:09:51.661 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:09:54.241 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:09:54.251 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:09:54.251 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:09:54.251 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:09:58.806 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:09:58.807 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:09:58.807 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 01:09:58.972 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 01:10:00.384 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 01:10:00.512 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:10:00.513 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:10:00.513 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:10:04.765 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:10:04.765 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:10:04.765 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:10:04.903 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 01:10:05.310 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 01:10:05.736 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:10:05.736 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:10:05.736 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:10:10.133 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:10:10.134 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:10:10.134 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:10:10.315 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 01:10:10.523 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 01:10:14.953 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:10:14.953 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:10:14.953 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:10:18.920 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:10:18.920 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:10:18.920 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:10:20.906 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 01:10:20.907 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 01:10:21.637 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 01:10:28.003 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 01:10:28.003 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:10:28.003 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:10:33.057 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:10:33.057 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:10:33.058 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:10:34.449 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 01:10:34.540 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 01:10:40.299 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 01:10:40.300 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 01:10:40.300 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:10:40.300 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:10:45.171 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:10:45.171 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:10:45.171 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:10:45.528 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 01:10:45.664 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 01:10:46.159 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:10:46.736 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:10:46.736 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:21:27.385 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:21:27.393 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:21:27.393 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:21:27.399 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:21:27.400 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:48:27.871 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:48:27.880 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:48:27.880 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:48:30.100 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:48:30.111 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:48:30.111 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:48:30.111 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:48:33.258 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:48:33.258 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:48:33.259 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:48:33.490 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 01:50:02.222 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:50:02.231 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:50:02.231 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:50:04.045 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:50:04.075 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:50:04.076 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:50:04.076 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:50:07.444 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:50:07.445 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:50:07.445 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:50:07.654 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 01:51:49.845 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:51:49.855 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:51:49.856 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:51:51.589 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:51:51.600 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:51:51.600 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:51:51.600 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:51:56.165 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:51:56.166 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:51:56.166 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:51:56.332 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 01:54:01.881 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:54:01.889 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:54:01.889 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:54:05.403 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:54:05.413 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:54:05.413 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:54:05.413 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:54:10.523 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:54:10.524 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:54:10.524 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:54:10.693 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 01:54:25.540 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:54:25.540 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:54:30.094 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:54:30.094 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:54:30.094 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 01:54:30.257 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 01:54:31.643 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 01:54:31.844 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:54:31.844 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:54:31.844 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:55:28.146 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:55:28.155 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:55:28.156 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:55:30.157 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:55:30.167 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:55:30.167 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:55:30.167 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:55:34.969 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:55:34.970 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:55:34.970 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:55:35.131 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 01:55:42.201 [main] LogsUtil - Typing a question
+[INFO ] 2022-07-29 01:55:45.058 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:55:45.058 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:55:49.603 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:55:49.603 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:55:49.603 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 01:55:49.750 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 01:55:51.118 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 01:55:51.253 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:55:51.253 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:55:51.253 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:55:55.281 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:55:55.281 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:55:55.281 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:55:55.428 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 01:55:55.874 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 01:55:56.327 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:55:56.328 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:55:56.328 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:56:00.591 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:56:00.592 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:56:00.592 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:56:00.786 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 01:56:00.988 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 01:56:05.558 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:56:05.558 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:56:05.558 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:56:10.411 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:56:10.411 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:56:10.412 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:56:13.062 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 01:56:13.063 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 01:56:33.195 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:56:33.195 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:56:37.242 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:56:37.242 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:56:50.206 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:56:50.215 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:56:50.216 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:56:51.919 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:56:51.930 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:56:51.931 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:56:51.931 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:56:55.153 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:56:55.153 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:56:55.154 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:56:55.425 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 01:57:20.394 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:57:20.402 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:57:20.402 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:57:22.165 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:57:22.178 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:57:22.179 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:57:22.179 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:57:26.792 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:57:26.792 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:57:26.793 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:57:26.976 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 01:57:34.312 [main] LogsUtil - Typing a question
+[INFO ] 2022-07-29 01:57:37.237 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:57:37.237 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:57:41.835 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:57:41.835 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:57:41.835 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 01:57:41.977 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 01:57:43.282 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 01:57:43.417 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:57:43.417 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:57:43.417 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:57:47.750 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:57:47.750 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:57:47.750 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:57:47.901 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 01:57:48.359 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 01:57:48.774 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:57:48.774 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:57:48.774 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:57:53.299 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:57:53.299 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:57:53.299 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:57:53.553 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 01:57:53.651 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 01:57:57.899 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:57:57.899 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:57:57.899 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:58:02.376 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:58:02.376 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:58:02.376 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:58:04.277 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 01:58:04.278 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 01:58:05.074 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 01:58:12.126 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 01:58:12.126 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:58:12.126 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:58:16.809 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:58:16.809 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:58:16.809 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:58:18.170 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 01:58:18.259 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 01:58:23.752 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 01:58:23.753 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 01:58:23.753 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:58:23.753 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:58:28.470 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:58:28.470 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:58:28.470 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:58:28.842 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 01:58:28.994 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 01:58:29.490 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:58:30.070 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:58:30.071 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:59:16.821 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:59:16.830 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:59:16.830 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:59:18.957 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:59:18.968 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:59:18.969 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:59:18.969 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:59:23.548 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:59:23.548 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:59:23.548 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:59:23.743 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 01:59:44.882 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:59:44.891 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:59:44.891 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:59:46.603 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 01:59:46.615 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 01:59:46.615 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 01:59:46.615 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 01:59:51.202 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 01:59:51.203 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 01:59:51.203 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 01:59:51.380 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 01:59:59.291 [main] LogsUtil - Typing a question
+[ERROR] 2022-07-29 02:00:01.941 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-29 02:00:01.941 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:00:01.941 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:00:05.015 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:00:05.016 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:00:05.016 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 02:00:05.150 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 02:00:06.102 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 02:00:06.267 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:00:06.267 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:00:06.267 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:00:10.651 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:00:10.652 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:00:10.652 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:00:10.787 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 02:00:11.199 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 02:00:11.632 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:00:11.633 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:00:11.633 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:00:16.000 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:00:16.000 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:00:16.000 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:00:16.167 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 02:00:16.335 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 02:00:20.514 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:00:20.514 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:00:20.514 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:00:26.065 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:00:26.065 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:00:26.065 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:00:27.942 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 02:00:27.943 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 02:00:28.863 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 02:00:35.815 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 02:00:35.815 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:00:35.815 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:00:39.872 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:00:39.872 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:00:39.872 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:00:41.412 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 02:00:41.513 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 02:00:46.766 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 02:00:46.766 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 02:00:46.766 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:00:46.766 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:00:51.221 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:00:51.221 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:00:51.221 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:00:51.566 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 02:00:51.705 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 02:00:52.230 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:00:52.813 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:00:52.814 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:12:32.852 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:12:32.861 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:12:32.861 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:12:32.866 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:12:32.867 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:33:53.050 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:33:53.058 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:33:53.058 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:33:55.247 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:33:55.257 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:33:55.257 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:33:55.257 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:33:59.911 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:33:59.911 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:33:59.911 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:34:00.051 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:34:00.084 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:34:01.296 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:34:01.296 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:34:01.296 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:34:05.823 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:34:05.823 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:34:05.824 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:34:06.023 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:34:54.550 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:34:54.559 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:34:54.560 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:34:56.047 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:34:56.087 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:34:56.087 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:34:56.087 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:35:00.714 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:35:00.714 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:35:00.714 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:35:00.863 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:35:00.898 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:35:02.008 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:35:02.008 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:35:02.008 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:35:05.296 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:35:05.296 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:35:05.297 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:35:05.537 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:36:01.577 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:36:01.585 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:36:01.586 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:36:03.593 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:36:03.603 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:36:03.604 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:36:03.604 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:36:08.245 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:36:08.245 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:36:08.245 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:36:08.382 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:36:08.413 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:36:09.505 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:36:09.505 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:36:09.505 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:36:12.800 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:36:12.800 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:36:12.801 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:36:12.976 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:38:58.049 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:38:58.058 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:38:58.058 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:38:59.900 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:38:59.911 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:38:59.912 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:38:59.912 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:39:04.488 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:39:04.488 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:39:04.488 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:39:04.619 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:39:04.651 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:39:06.130 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:39:06.130 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:39:06.130 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:39:10.460 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:39:10.460 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:39:10.461 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:39:10.654 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:39:32.170 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:39:32.179 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:39:32.179 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:39:33.920 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:39:33.930 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:39:33.931 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:39:33.931 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:39:37.194 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:39:37.194 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:39:37.194 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:39:37.408 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:39:37.443 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:39:38.458 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:39:38.458 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:39:38.458 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:39:42.905 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:39:42.906 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:39:42.906 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:39:43.097 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:40:36.249 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:40:36.258 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:40:36.258 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:40:38.031 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:40:38.042 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:40:38.042 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:40:38.042 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:40:42.713 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:40:42.713 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:40:42.714 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:40:42.847 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:40:42.878 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:40:44.126 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:40:44.127 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:40:44.127 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:40:47.250 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:40:47.250 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:40:47.251 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:40:47.516 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:41:15.160 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:41:15.170 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:41:15.170 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:41:17.619 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:41:17.629 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:41:17.630 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:41:17.630 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:41:22.253 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:41:22.254 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:41:22.254 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:41:22.398 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:41:22.426 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:41:25.005 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:41:25.005 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:41:25.005 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:41:28.059 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:41:28.060 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:41:28.060 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:41:28.357 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:41:49.548 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:41:49.548 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:41:54.227 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:41:54.227 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:41:54.227 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 02:41:54.380 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 02:41:55.774 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 02:41:55.910 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:41:55.910 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:41:55.910 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:42:00.296 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:42:00.297 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:42:00.297 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:42:00.437 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 02:42:00.874 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 02:42:01.279 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:42:01.279 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:42:01.279 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:42:05.691 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:42:05.691 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:42:05.691 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:42:05.885 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 02:42:06.076 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 02:42:10.525 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:42:10.525 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:42:10.525 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:42:15.246 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:42:15.246 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:42:15.246 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:42:17.561 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 02:42:17.562 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 02:42:18.009 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 02:42:24.845 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 02:42:24.845 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:42:24.845 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:42:29.816 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:42:29.816 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:42:29.817 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:42:31.407 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 02:42:31.494 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 02:42:36.715 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 02:42:36.715 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 02:42:36.715 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:42:36.715 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:42:41.312 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:42:41.312 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:42:41.312 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:42:41.708 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 02:42:41.852 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 02:42:42.316 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:42:42.900 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:42:42.900 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:44:57.621 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:44:57.630 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:44:57.631 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:44:59.346 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:44:59.357 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:44:59.358 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:44:59.358 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:45:04.251 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:45:04.252 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:45:04.252 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:45:04.414 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:45:04.447 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:45:05.691 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:45:05.691 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:45:05.691 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:45:09.045 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:45:09.045 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:45:09.045 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:45:09.308 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:45:30.737 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:45:30.737 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:45:34.214 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:45:34.215 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:46:09.479 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:46:09.487 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:46:09.488 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:46:11.134 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:46:11.144 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:46:11.144 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:46:11.144 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:46:15.959 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:46:15.959 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:46:15.959 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:46:16.096 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:46:16.125 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:46:17.474 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:46:17.475 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:46:17.475 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:46:21.429 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:46:21.430 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:46:21.430 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:46:21.644 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:48:06.466 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:48:06.473 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:48:06.474 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:48:08.400 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 02:48:08.410 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:48:08.411 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:48:08.411 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:48:11.605 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:48:11.605 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:48:11.605 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:48:11.744 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 02:48:11.775 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 02:48:13.081 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:48:13.081 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:48:13.081 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:48:17.524 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:48:17.525 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:48:17.525 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:48:17.690 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 02:48:25.533 [main] LogsUtil - Typing a question
+[ERROR] 2022-07-29 02:48:28.520 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-29 02:48:28.520 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:48:28.520 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:48:31.978 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:48:31.978 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:48:31.978 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 02:48:32.135 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 02:48:33.573 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 02:48:33.710 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:48:33.710 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:48:33.710 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:48:38.203 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:48:38.203 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:48:38.203 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:48:38.345 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 02:48:38.774 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 02:48:39.180 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:48:39.181 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:48:39.181 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:48:42.267 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:48:42.267 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:48:42.267 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:48:42.516 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 02:48:42.636 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 02:48:47.702 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:48:47.702 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:48:47.702 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:48:52.121 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:48:52.121 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:48:52.121 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:48:54.876 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 02:48:54.876 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 02:48:54.938 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 02:49:01.719 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 02:49:01.719 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:49:01.719 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:49:06.467 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:49:06.467 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:49:06.467 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:49:08.107 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 02:49:08.202 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 02:49:13.475 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 02:49:13.476 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 02:49:13.476 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:49:13.476 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:49:18.167 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:49:18.167 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:49:18.167 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:49:18.542 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 02:49:18.675 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 02:49:19.172 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 02:49:19.891 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:49:19.891 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 02:53:17.888 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 02:53:17.897 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 02:53:17.898 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 02:53:17.902 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 02:53:17.902 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:07:28.898 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:07:28.906 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:07:28.906 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:07:31.088 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 03:07:31.098 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:07:31.099 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:07:31.099 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:07:35.979 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:07:35.979 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:07:35.979 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:07:36.097 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 03:07:36.130 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 03:07:37.339 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:07:37.339 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:07:37.339 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:07:41.762 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:07:41.762 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:07:41.762 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:08:55.786 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:08:55.795 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:08:55.796 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:08:57.492 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 03:08:57.504 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:08:57.505 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:08:57.505 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:09:02.118 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:09:02.119 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:09:02.119 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:09:02.274 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 03:09:02.308 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 03:09:03.403 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:09:03.404 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:09:03.404 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:09:07.888 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:09:07.889 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:09:07.889 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:09:14.275 [main] LogsUtil - clicked on Tide Cleaner icon
+[INFO ] 2022-07-29 03:09:16.407 [main] LogsUtil - clicked on Wedding dresses option
+[INFO ] 2022-07-29 03:09:17.467 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:09:17.468 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:09:17.468 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:09:22.026 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:09:22.026 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:09:22.027 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:09:22.222 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 03:09:46.633 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:09:46.633 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:09:51.205 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:09:51.206 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:09:51.206 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 03:09:51.355 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 03:09:52.719 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 03:09:52.886 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:09:52.886 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:09:52.887 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:09:57.574 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:09:57.574 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:09:57.574 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:09:57.722 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 03:09:58.130 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 03:09:58.551 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:09:58.552 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:09:58.552 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:10:02.913 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:10:02.913 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:10:02.913 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:10:03.086 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 03:10:03.256 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 03:10:07.576 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:10:07.576 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:10:07.576 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:10:12.125 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:10:12.125 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:10:12.125 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:10:13.974 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 03:10:13.974 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 03:10:19.806 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 03:10:25.988 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 03:10:25.988 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:10:25.988 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:10:30.528 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:10:30.528 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:10:30.528 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:10:32.010 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 03:10:32.097 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 03:10:37.392 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 03:10:37.393 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 03:10:37.393 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:10:37.393 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:10:41.970 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:10:41.971 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:10:41.971 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:10:42.338 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 03:10:42.483 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 03:10:42.968 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:10:43.554 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:10:43.555 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:11:15.391 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:11:15.401 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:11:15.402 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:11:18.418 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 03:11:18.428 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:11:18.428 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:11:18.428 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:11:23.241 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:11:23.241 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:11:23.241 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:11:23.376 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 03:11:23.407 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 03:11:24.573 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:11:24.574 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:11:24.574 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:11:28.887 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:11:28.887 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:11:28.887 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:12:55.964 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:12:55.975 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:12:55.975 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:12:58.953 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 03:12:58.964 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:12:58.964 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:12:58.964 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:13:05.817 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:13:05.817 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:13:05.817 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:13:05.949 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 03:13:05.977 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 03:13:08.309 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:13:08.309 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:13:08.309 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:13:15.063 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:13:15.064 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:13:15.064 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:13:24.002 [main] LogsUtil - clicked on Tide Cleaner icon
+[INFO ] 2022-07-29 03:13:26.141 [main] LogsUtil - clicked on Wedding dresses option
+[INFO ] 2022-07-29 03:13:27.312 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:13:27.312 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:13:27.312 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:13:30.984 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:13:30.984 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:13:30.984 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:13:31.157 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 03:14:07.162 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:14:07.169 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:14:07.170 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:14:10.750 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 03:14:10.760 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:14:10.760 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:14:10.760 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:14:17.820 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:14:17.821 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:14:17.821 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:14:17.953 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 03:14:17.983 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 03:14:19.868 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:14:19.869 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:14:19.869 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:14:24.234 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:14:24.235 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:14:24.235 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:15:24.481 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:15:24.489 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:15:24.490 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:15:27.376 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 03:15:27.386 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:15:27.387 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:15:27.387 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:15:34.341 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:15:34.341 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:15:34.341 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:15:34.482 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 03:15:34.511 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 03:15:36.464 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:15:36.464 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:15:36.464 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:15:42.842 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:15:42.842 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:15:42.842 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:15:49.442 [main] LogsUtil - clicked on Tide Cleaner icon
+[INFO ] 2022-07-29 03:15:51.617 [main] LogsUtil - clicked on Wedding dresses option
+[INFO ] 2022-07-29 03:15:52.701 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:15:52.701 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:15:52.701 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:15:59.583 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:15:59.583 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:15:59.584 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:15:59.761 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 03:16:24.887 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:16:24.887 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:17:48.400 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:17:48.409 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:17:48.409 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:17:51.439 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 03:17:51.451 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:17:51.452 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:17:51.452 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:17:55.753 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:17:55.753 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:17:55.753 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:17:55.867 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 03:17:55.900 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 03:17:58.457 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:17:58.457 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:17:58.458 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:18:05.635 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:18:05.636 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:18:05.636 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:18:12.719 [main] LogsUtil - clicked on Tide Cleaner icon
+[INFO ] 2022-07-29 03:18:14.859 [main] LogsUtil - clicked on Wedding dresses option
+[INFO ] 2022-07-29 03:18:15.926 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:18:15.927 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:18:15.927 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:18:20.726 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:18:20.726 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:18:20.726 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:18:20.897 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 03:18:48.178 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:18:48.178 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:19:40.936 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:19:40.945 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:19:40.945 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:19:45.235 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 03:19:45.245 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:19:45.245 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:19:45.245 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:19:50.209 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:19:50.210 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:19:50.210 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:19:50.349 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 03:19:50.386 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 03:19:52.291 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:19:52.291 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:19:52.291 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:19:56.777 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:19:56.777 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:19:56.777 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:21:32.507 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:21:32.515 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:21:32.515 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:21:36.526 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 03:21:36.536 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:21:36.537 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:21:36.537 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:21:43.230 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:21:43.231 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:21:43.231 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:21:43.410 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 03:21:53.036 [main] LogsUtil - Typing a question
+[ERROR] 2022-07-29 03:21:55.813 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-29 03:21:55.814 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:21:55.814 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:21:59.750 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:21:59.750 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:21:59.750 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:21:59.890 [main] LogsUtil - clicked on CA Privacy link
+[INFO ] 2022-07-29 03:21:59.922 [main] LogsUtil - New window with P&G is opened
+[INFO ] 2022-07-29 03:22:02.125 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:22:02.125 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:22:02.125 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:22:09.954 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:22:09.954 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:22:09.954 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:22:17.259 [main] LogsUtil - clicked on Tide Cleaner icon
+[INFO ] 2022-07-29 03:22:19.398 [main] LogsUtil - clicked on Wedding dresses option
+[INFO ] 2022-07-29 03:22:20.517 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:22:20.517 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:22:20.517 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:22:27.232 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:22:27.232 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:22:27.232 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 03:22:27.378 [main] LogsUtil - Hovering on Shop Product
+[INFO ] 2022-07-29 03:22:29.152 [main] LogsUtil - Clicked on Machine Care Option
+[INFO ] 2022-07-29 03:22:29.284 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:22:29.284 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:22:29.284 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:22:35.933 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:22:35.933 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:22:35.933 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:22:36.061 [main] LogsUtil - Hovering on Menu Our Commitment
+[WARN ] 2022-07-29 03:22:36.412 [main] LogsUtil - Clicked on America's #1 detergent Option
+[INFO ] 2022-07-29 03:22:36.712 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:22:36.712 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:22:36.712 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:22:43.368 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:22:43.368 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:22:43.368 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:22:43.532 [main] LogsUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-29 03:22:43.674 [main] LogsUtil - Click on Save Now
+[INFO ] 2022-07-29 03:22:49.303 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:22:49.303 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:22:49.303 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:22:56.160 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:22:56.160 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:22:56.161 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:22:59.527 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 03:22:59.528 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 03:22:59.575 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 03:23:08.933 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 03:23:08.933 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:23:08.933 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:23:15.735 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:23:15.735 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:23:15.735 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:23:17.569 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 03:23:17.658 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 03:23:25.031 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 03:23:25.032 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 03:23:25.032 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:23:25.032 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 03:23:31.415 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 03:23:31.415 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 03:23:31.415 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 03:23:31.744 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 03:23:31.881 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 03:23:32.393 [main] LogsUtil - Verified text
+[INFO ] 2022-07-29 03:23:33.807 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 03:23:33.807 [main] LogsUtil - Finished Extent Report
