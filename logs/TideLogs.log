@@ -2139,3 +2139,6 @@
 [INFO ] 2022-07-29 03:23:32.393 [main] LogsUtil - Verified text
 [INFO ] 2022-07-29 03:23:33.807 [main] LogsUtil - Closed browser
 [INFO ] 2022-07-29 03:23:33.807 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-31 18:24:16.250 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-31 18:24:16.260 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-31 18:24:16.260 [main] LogsUtil - Fetched Tide url
